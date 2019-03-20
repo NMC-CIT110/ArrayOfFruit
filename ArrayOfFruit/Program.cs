@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ArrayOfFruit
 {
     /// <summary>
-    /// Fruit Array
+    /// Fruit Array for Today
     /// </summary>
     class Program
     {
