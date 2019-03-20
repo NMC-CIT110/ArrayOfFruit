@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ArrayOfFruit
 {
+    /// <summary>
+    /// Fruit Array
+    /// </summary>
     class Program
     {
         public enum Fruit
